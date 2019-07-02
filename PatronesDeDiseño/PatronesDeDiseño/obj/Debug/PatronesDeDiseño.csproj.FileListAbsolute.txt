@@ -1,0 +1,7 @@
+c:\users\vochotalacha\documents\visual studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csprojAssemblyReference.cache
+c:\users\vochotalacha\documents\visual studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.CoreCompileInputs.cache
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.exe.config
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.exe
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\PatronesDeDiseño.pdb
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.exe
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.pdb
